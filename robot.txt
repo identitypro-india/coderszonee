@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /login/
+Disallow: /register/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+
+Allow: /courses/
+Allow: /about/
+Allow: /resources/
+Allow: /instructors/
+
+Sitemap: https://coderszonee.com/sitemap.xml
